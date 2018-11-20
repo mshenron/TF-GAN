@@ -1,9 +1,10 @@
 # TF-GAN ![](Media/AI_icon.png)
 Easy to use Tensorflow implementation of [Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/pdf/1511.06434.pdf)
 
-to use the code clone the repository to your local system and go to DCGAN directory
-and run
 ```shell
+# Demo Usage:
+# Clone the repository to your local system
+# Go to DCGAN directory and run
 python main.py
 ```
 
